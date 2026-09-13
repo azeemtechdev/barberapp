@@ -1,0 +1,8 @@
+{
+  "/search/page": "app/search/page.js",
+  "/messages/[conversationId]/page": "app/messages/[conversationId]/page.js",
+  "/page": "app/page.js",
+  "/customer/bookings/page": "app/customer/bookings/page.js",
+  "/login/page": "app/login/page.js",
+  "/signup/page": "app/signup/page.js"
+}
